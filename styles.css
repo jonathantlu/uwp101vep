@@ -11,24 +11,23 @@ header {
     padding: 20px 0;
 }
 
-nav ul {
+header nav ul {
     list-style-type: none;
     margin: 0;
     padding: 0;
-    text-align: center;
 }
 
-nav ul li {
+header nav ul li {
     display: inline;
     margin: 0 10px;
 }
 
-nav ul li a {
+header nav ul li a {
     text-decoration: none;
     color: #fff;
 }
 
-nav ul li a:hover {
+header nav ul li a:hover {
     color: #ccc;
 }
 
