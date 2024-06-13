@@ -46,3 +46,22 @@ footer {
     bottom: 0;
     width: 100%;
 }
+
+.project {
+    width: 30%; /* Adjust the width as needed */
+    display: inline-block;
+    vertical-align: top;
+    margin: 0 1.5%; /* Adjust the margin as needed */
+    text-align: left;
+    border: 1px solid #ccc;
+    padding: 20px;
+    box-sizing: border-box;
+}
+
+.project h3 {
+    margin-top: 0;
+}
+
+.project p {
+    margin-bottom: 0;
+}
