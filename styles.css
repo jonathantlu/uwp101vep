@@ -65,6 +65,11 @@ footer {
     margin-bottom: 0;
 }
 
+.project img {
+    width: 80%
+    height: 30%
+}
+
 .about-content {
     display: flex;
     align-items: center;
