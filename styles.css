@@ -80,6 +80,7 @@ footer {
 }
 
 .about-text {
+    width: 40%;
     flex: 1;
     padding-left: 20px; /* Adjust spacing between image and text */
 }
