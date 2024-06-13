@@ -73,7 +73,7 @@ footer {
 }
 
 .about-image {
-    flex: 2;
+    flex: 0 0 30%;
 }
 
 .about-image img {
